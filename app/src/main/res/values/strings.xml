@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bavariary</string>
+    <string name="action_back">Zurück</string>
+    <string name="new_entry">Neuer Eintrag</string>
+    <string name="select_entry">Alte Projekte</string>
+    <string name="location_pin">Standort als Pin setzen</string>
+    <string name="put_pin">Pin manuell setzen</string>
+    <string name="goButton">Los</string>
+    <string name="save">Speichern und Servus</string>
+
+</resources>
